@@ -13,7 +13,7 @@ public class Davi {
     public static String getName() {
         return name;
     }
-    
+
     public static String nome (){
         return getName();
     }
